@@ -1,13 +1,17 @@
 # flutterbank
 
-Simulates the Nubank screen "Cobrar"
+Simulates Nubank screen: "Cobrar".
+
+To do: post data when "Enviar Cobrança" button onPressed
+
+## Screens
 
 ![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970706.png)
 ![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970703.png)
 ![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970711.png)
 ![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970724.png)
 
-Old version:
+## Old version (v0.1-alpha):
 
 ![](https://github.com/danvitoriano/flutterbank/blob/master/flutterbank-screenshot-2.png)
 
