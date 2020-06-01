@@ -2,10 +2,10 @@
 
 Simulates the Nubank screen "Cobrar"
 
-![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970706.png)
-![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970703.png)
-![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970711.png)
-![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970724.png)
+![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970706.png)
+![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970703.png)
+![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970711.png)
+![](https://github.com/danvitoriano/flutterbank/blob/master/Screenshot_1590970724.png)
 
 Old version:
 
