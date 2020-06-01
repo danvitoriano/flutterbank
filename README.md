@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970706.png)
+![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970703.png)
+![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970711.png)
+![](https://github.com/danvitoriano/flutterbank/blob/change-screens/Screenshot_1590970724.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
